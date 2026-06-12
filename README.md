@@ -1,3 +1,6 @@
+> **Learning archive and attribution:** this repository is a study mirror derived from [gaoisbest/NLP-Projects](https://github.com/gaoisbest/NLP-Projects). The material below belongs to its original authors and linked sources. Aishwarya Anand preserved it as an NLP reference collection; it is not presented as original authorship.
+
+
 # NLP-Projects
 Natural Language Processing projects, which includes concepts and scripts about:
 - [0_Word2vec](https://github.com/gaoisbest/NLP-Projects/blob/master/0_Word2vec/README.md)
